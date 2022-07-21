@@ -1,0 +1,2 @@
+# Job-portal
+Job for You is the job consultancy Website in which People can search for the jobs based upon their location, categories and salary. Job Provider can search for the candidates desired for their jobs and also see the applied jobs in dashboard section. Super Admin have full access over the data of job seekers as well as job providers. Super admin can create the jobs by himself also .It can add customers also from the dashboard section. Super admin has full access over deleting and editing the records of customers from both ends.
